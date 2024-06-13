@@ -21,9 +21,9 @@ Keybinds:
 ## SQL Basic
 | NO | Challenges | Solutions |
 |:---|:-----------:|:---------:|
-| 1 | [SQL-Practice.com Hospital - Easy](https://www.sql-practice.com/) | [[Solutions](https://github.com/imanmammadli/hackerrankSQLchallenges/tree/main/1-Basic%20Select)]
-| 2 | [SQL-Practice.com Hospital - Medium](https://www.sql-practice.com/) | [[Solutions](https://github.com/imanmammadli/hackerrankSQLchallenges/tree/main/2-Advanced%20Select)]
-| 3 | [SQL-Practice.com Hospital - Hard](https://www.sql-practice.com/) | [[Solutions](https://github.com/imanmammadli/hackerrankSQLchallenges/tree/main/3-Aggregation)]
-| 4 | [SQL-Practice.com Northwind - Easy](https://www.sql-practice.com/) | [[Solutions](https://github.com/imanmammadli/hackerrankSQLchallenges/tree/main/4-Basic%20Join)]
-| 5 | [SQL-Practice.com Northwind - Medium](https://www.sql-practice.com/) | [[Solutions](https://github.com/imanmammadli/hackerrankSQLchallenges/tree/main/5-Advanced%20Join)]
-| 6 | [SQL-Practice.com Northwind - Hard]() | [[Solutions](https://github.com/imanmammadli/hackerrankSQLchallenges/tree/main/6-Alternative%20Queries)]
+| 1 | [SQL-Practice.com Hospital - Easy](https://www.sql-practice.com/) | [[Solutions](https://github.com/imanmammadli/SQL-Practice.com/blob/main/1-HOSPITAL_EASY.sql)]
+| 2 | [SQL-Practice.com Hospital - Medium](https://www.sql-practice.com/) | [[Solutions](https://github.com/imanmammadli/SQL-Practice.com/blob/main/2-HOSPITAL_MEDIUM.sql)]
+| 3 | [SQL-Practice.com Hospital - Hard](https://www.sql-practice.com/) | [[Solutions](https://github.com/imanmammadli/SQL-Practice.com/blob/main/3-HOSPITAL_HARD.sql)]
+| 4 | [SQL-Practice.com Northwind - Easy](https://www.sql-practice.com/) | [[Solutions](https://github.com/imanmammadli/SQL-Practice.com/blob/main/4-NORTHWIND_EASY.sql)]
+| 5 | [SQL-Practice.com Northwind - Medium](https://www.sql-practice.com/) | [[Solutions](https://github.com/imanmammadli/SQL-Practice.com/blob/main/5-NORTHWIND_MEDIUM.sql)]
+| 6 | [SQL-Practice.com Northwind - Hard](https://www.sql-practice.com/) | [[Solutions](https://github.com/imanmammadli/SQL-Practice.com/blob/main/6-NORTHWIND_HARD.sql)]
