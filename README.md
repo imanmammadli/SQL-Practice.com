@@ -5,7 +5,7 @@
 
 
 ## Title
-In this repo you can find answers to all questions on www.sql-practice.com. There are two main databases on the site. These are hospital.db and northwind.db. Each database has easy, medium and difficult questions. You can access the questions of both databases here from the table below.
+In this repo you can find answers to all questions on www.sql-practice.com. There are two main databases on the site. These are hospital.db and northwind.db. Each database has easy, medium and difficult questions. You can access the questions of both databases here from the table below. All problems are resolved.
 
 
 ### Instructions for using the website are as follows.
